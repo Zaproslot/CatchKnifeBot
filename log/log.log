@@ -1,0 +1,248 @@
+2023-09-06 14:26:26,559 INFO Processor.MainProcessor run -> : All tasks created.
+2023-09-06 14:26:35,448 INFO Processor.MainProcessor __swing_trade -> : XMRUSDT initialized.
+2023-09-06 14:26:35,496 INFO Processor.MainProcessor __swing_trade -> : CFXUSDT initialized.
+2023-09-06 14:26:35,502 INFO Processor.MainProcessor __swing_trade -> : ZECUSDT initialized.
+2023-09-06 14:26:35,505 INFO Processor.MainProcessor __swing_trade -> : 1000XECUSDT initialized.
+2023-09-06 14:26:35,507 INFO Processor.MainProcessor __swing_trade -> : BANDUSDT initialized.
+2023-09-06 14:26:35,514 INFO Processor.MainProcessor __swing_trade -> : ALICEUSDT initialized.
+2023-09-06 14:26:35,517 INFO Processor.MainProcessor __swing_trade -> : IOTXUSDT initialized.
+2023-09-06 14:26:35,518 INFO Processor.MainProcessor __swing_trade -> : OCEANUSDT initialized.
+2023-09-06 14:26:35,519 INFO Processor.MainProcessor __swing_trade -> : AMBUSDT initialized.
+2023-09-06 14:26:35,519 INFO Processor.MainProcessor __swing_trade -> : OXTUSDT initialized.
+2023-09-06 14:26:35,520 INFO Processor.MainProcessor __swing_trade -> : XVSUSDT initialized.
+2023-09-06 14:26:35,522 INFO Processor.MainProcessor __swing_trade -> : EGLDUSDT initialized.
+2023-09-06 14:26:35,523 INFO Processor.MainProcessor __swing_trade -> : KLAYUSDT initialized.
+2023-09-06 14:26:35,527 INFO Processor.MainProcessor __swing_trade -> : HIGHUSDT initialized.
+2023-09-06 14:26:35,528 INFO Processor.MainProcessor __swing_trade -> : ARUSDT initialized.
+2023-09-06 14:26:35,529 INFO Processor.MainProcessor __swing_trade -> : STGUSDT initialized.
+2023-09-06 14:26:35,531 INFO Processor.MainProcessor __swing_trade -> : USDCUSDT initialized.
+2023-09-06 14:26:35,533 INFO Processor.MainProcessor __swing_trade -> : LINKUSDT initialized.
+2023-09-06 14:26:35,534 INFO Processor.MainProcessor __swing_trade -> : OMGUSDT initialized.
+2023-09-06 14:26:35,535 INFO Processor.MainProcessor __swing_trade -> : HFTUSDT initialized.
+2023-09-06 14:26:35,536 INFO Processor.MainProcessor __swing_trade -> : DARUSDT initialized.
+2023-09-06 14:26:35,537 INFO Processor.MainProcessor __swing_trade -> : EDUUSDT initialized.
+2023-09-06 14:26:35,539 INFO Processor.MainProcessor __swing_trade -> : COTIUSDT initialized.
+2023-09-06 14:26:35,541 INFO Processor.MainProcessor __swing_trade -> : COMPUSDT initialized.
+2023-09-06 14:26:35,541 INFO Processor.MainProcessor __swing_trade -> : DEFIUSDT initialized.
+2023-09-06 14:26:35,542 INFO Processor.MainProcessor __swing_trade -> : AUDIOUSDT initialized.
+2023-09-06 14:26:35,542 INFO Processor.MainProcessor __swing_trade -> : FTTUSDT initialized.
+2023-09-06 14:26:35,543 INFO Processor.MainProcessor __swing_trade -> : SEIUSDT initialized.
+2023-09-06 14:26:35,543 INFO Processor.MainProcessor __swing_trade -> : QNTUSDT initialized.
+2023-09-06 14:26:35,545 INFO Processor.MainProcessor __swing_trade -> : ALGOUSDT initialized.
+2023-09-06 14:26:35,545 INFO Processor.MainProcessor __swing_trade -> : CELRUSDT initialized.
+2023-09-06 14:26:35,545 INFO Processor.MainProcessor __swing_trade -> : AVAXUSDT initialized.
+2023-09-06 14:26:35,548 INFO Processor.MainProcessor __swing_trade -> : IDUSDT initialized.
+2023-09-06 14:26:35,549 INFO Processor.MainProcessor __swing_trade -> : ZRXUSDT initialized.
+2023-09-06 14:26:35,552 INFO Processor.MainProcessor __swing_trade -> : TRUUSDT initialized.
+2023-09-06 14:26:35,554 INFO Processor.MainProcessor __swing_trade -> : WLDUSDT initialized.
+2023-09-06 14:26:35,555 INFO Processor.MainProcessor __swing_trade -> : BNBUSDT initialized.
+2023-09-06 14:26:35,556 INFO Processor.MainProcessor __swing_trade -> : DOGEUSDT initialized.
+2023-09-06 14:26:35,556 INFO Processor.MainProcessor __swing_trade -> : XVGUSDT initialized.
+2023-09-06 14:26:35,559 INFO Processor.MainProcessor __swing_trade -> : ETCUSDT initialized.
+2023-09-06 14:26:35,561 INFO Processor.MainProcessor __swing_trade -> : LDOUSDT initialized.
+2023-09-06 14:26:35,562 INFO Processor.MainProcessor __swing_trade -> : JASMYUSDT initialized.
+2023-09-06 14:26:35,562 INFO Processor.MainProcessor __swing_trade -> : SFPUSDT initialized.
+2023-09-06 14:26:35,564 INFO Processor.MainProcessor __swing_trade -> : KSMUSDT initialized.
+2023-09-06 14:26:35,566 INFO Processor.MainProcessor __swing_trade -> : XRPUSDT initialized.
+2023-09-06 14:26:35,568 INFO Processor.MainProcessor __swing_trade -> : CRVUSDT initialized.
+2023-09-06 14:26:35,569 INFO Processor.MainProcessor __swing_trade -> : DGBUSDT initialized.
+2023-09-06 14:26:35,570 INFO Processor.MainProcessor __swing_trade -> : RVNUSDT initialized.
+2023-09-06 14:26:35,572 INFO Processor.MainProcessor __swing_trade -> : FLMUSDT initialized.
+2023-09-06 14:26:35,572 INFO Processor.MainProcessor __swing_trade -> : FETUSDT initialized.
+2023-09-06 14:26:35,573 INFO Processor.MainProcessor __swing_trade -> : SUSHIUSDT initialized.
+2023-09-06 14:26:35,575 INFO Processor.MainProcessor __swing_trade -> : BCHUSDT initialized.
+2023-09-06 14:26:35,575 INFO Processor.MainProcessor __swing_trade -> : SRMUSDT initialized.
+2023-09-06 14:26:35,576 INFO Processor.MainProcessor __swing_trade -> : ROSEUSDT initialized.
+2023-09-06 14:26:35,578 INFO Processor.MainProcessor __swing_trade -> : AAVEUSDT initialized.
+2023-09-06 14:26:35,579 INFO Processor.MainProcessor __swing_trade -> : OPUSDT initialized.
+2023-09-06 14:26:35,581 INFO Processor.MainProcessor __swing_trade -> : PHBUSDT initialized.
+2023-09-06 14:26:35,582 INFO Processor.MainProcessor __swing_trade -> : HOOKUSDT initialized.
+2023-09-06 14:26:35,583 INFO Processor.MainProcessor __swing_trade -> : ATAUSDT initialized.
+2023-09-06 14:26:35,584 INFO Processor.MainProcessor __swing_trade -> : AGIXUSDT initialized.
+2023-09-06 14:26:35,586 INFO Processor.MainProcessor __swing_trade -> : LTCUSDT initialized.
+2023-09-06 14:26:35,588 INFO Processor.MainProcessor __swing_trade -> : LITUSDT initialized.
+2023-09-06 14:26:35,591 INFO Processor.MainProcessor __swing_trade -> : WOOUSDT initialized.
+2023-09-06 14:26:35,592 INFO Processor.MainProcessor __swing_trade -> : ATOMUSDT initialized.
+2023-09-06 14:26:35,593 INFO Processor.MainProcessor __swing_trade -> : RENUSDT initialized.
+2023-09-06 14:26:35,593 INFO Processor.MainProcessor __swing_trade -> : CTSIUSDT initialized.
+2023-09-06 14:26:35,596 INFO Processor.MainProcessor __swing_trade -> : CVXUSDT initialized.
+2023-09-06 14:26:35,597 INFO Processor.MainProcessor __swing_trade -> : LPTUSDT initialized.
+2023-09-06 14:26:35,598 INFO Processor.MainProcessor __swing_trade -> : MAVUSDT initialized.
+2023-09-06 14:26:35,598 INFO Processor.MainProcessor __swing_trade -> : TLMUSDT initialized.
+2023-09-06 14:26:35,599 INFO Processor.MainProcessor __swing_trade -> : LEVERUSDT initialized.
+2023-09-06 14:26:35,600 INFO Processor.MainProcessor __swing_trade -> : RSRUSDT initialized.
+2023-09-06 14:26:35,602 INFO Processor.MainProcessor __swing_trade -> : DOTUSDT initialized.
+2023-09-06 14:26:35,607 INFO Processor.MainProcessor __swing_trade -> : BLZUSDT initialized.
+2023-09-06 14:26:35,609 INFO Processor.MainProcessor __swing_trade -> : KEYUSDT initialized.
+2023-09-06 14:26:35,611 INFO Processor.MainProcessor __swing_trade -> : XTZUSDT initialized.
+2023-09-06 14:26:35,615 INFO Processor.MainProcessor __swing_trade -> : DYDXUSDT initialized.
+2023-09-06 14:26:35,618 INFO Processor.MainProcessor __swing_trade -> : MANAUSDT initialized.
+2023-09-06 14:26:35,620 INFO Processor.MainProcessor __swing_trade -> : FOOTBALLUSDT initialized.
+2023-09-06 14:26:35,621 INFO Processor.MainProcessor __swing_trade -> : ONTUSDT initialized.
+2023-09-06 14:26:35,623 INFO Processor.MainProcessor __swing_trade -> : C98USDT initialized.
+2023-09-06 14:26:35,624 INFO Processor.MainProcessor __swing_trade -> : ZILUSDT initialized.
+2023-09-06 14:26:35,625 INFO Processor.MainProcessor __swing_trade -> : SCUSDT initialized.
+2023-09-06 14:26:35,625 INFO Processor.MainProcessor __swing_trade -> : BTCUSDT_231229 initialized.
+2023-09-06 14:26:35,626 INFO Processor.MainProcessor __swing_trade -> : GMTUSDT initialized.
+2023-09-06 14:26:35,627 INFO Processor.MainProcessor __swing_trade -> : ARBUSDT initialized.
+2023-09-06 14:26:35,628 INFO Processor.MainProcessor __swing_trade -> : JOEUSDT initialized.
+2023-09-06 14:26:35,628 INFO Processor.MainProcessor __swing_trade -> : SOLUSDT initialized.
+2023-09-06 14:26:35,630 INFO Processor.MainProcessor __swing_trade -> : CKBUSDT initialized.
+2023-09-06 14:26:35,631 INFO Processor.MainProcessor __swing_trade -> : AGLDUSDT initialized.
+2023-09-06 14:26:35,631 INFO Processor.MainProcessor __swing_trade -> : MINAUSDT initialized.
+2023-09-06 14:26:35,633 INFO Processor.MainProcessor __swing_trade -> : GMXUSDT initialized.
+2023-09-06 14:26:35,636 INFO Processor.MainProcessor __swing_trade -> : LINAUSDT initialized.
+2023-09-06 14:26:35,638 INFO Processor.MainProcessor __swing_trade -> : IOSTUSDT initialized.
+2023-09-06 14:26:35,640 INFO Processor.MainProcessor __swing_trade -> : TRBUSDT initialized.
+2023-09-06 14:26:35,640 INFO Processor.MainProcessor __swing_trade -> : SKLUSDT initialized.
+2023-09-06 14:26:35,646 INFO Processor.MainProcessor __swing_trade -> : CELOUSDT initialized.
+2023-09-06 14:26:35,647 INFO Processor.MainProcessor __swing_trade -> : BLUEBIRDUSDT initialized.
+2023-09-06 14:26:35,648 INFO Processor.MainProcessor __swing_trade -> : ICPUSDT initialized.
+2023-09-06 14:26:35,649 INFO Processor.MainProcessor __swing_trade -> : MKRUSDT initialized.
+2023-09-06 14:26:35,649 INFO Processor.MainProcessor __swing_trade -> : CHRUSDT initialized.
+2023-09-06 14:26:35,650 INFO Processor.MainProcessor __swing_trade -> : COCOSUSDT initialized.
+2023-09-06 14:26:35,651 INFO Processor.MainProcessor __swing_trade -> : EOSUSDT initialized.
+2023-09-06 14:26:35,652 INFO Processor.MainProcessor __swing_trade -> : SUIUSDT initialized.
+2023-09-06 14:26:35,653 INFO Processor.MainProcessor __swing_trade -> : NEARUSDT initialized.
+2023-09-06 14:26:35,655 INFO Processor.MainProcessor __swing_trade -> : GALAUSDT initialized.
+2023-09-06 14:26:35,658 INFO Processor.MainProcessor __swing_trade -> : ARPAUSDT initialized.
+2023-09-06 14:26:35,661 INFO Processor.MainProcessor __swing_trade -> : FILUSDT initialized.
+2023-09-06 14:26:35,663 INFO Processor.MainProcessor __swing_trade -> : UNFIUSDT initialized.
+2023-09-06 14:26:35,663 INFO Processor.MainProcessor __swing_trade -> : SSVUSDT initialized.
+2023-09-06 14:26:35,664 INFO Processor.MainProcessor __swing_trade -> : ASTRUSDT initialized.
+2023-09-06 14:26:35,664 INFO Processor.MainProcessor __swing_trade -> : RUNEUSDT initialized.
+2023-09-06 14:26:35,664 INFO Processor.MainProcessor __swing_trade -> : BAKEUSDT initialized.
+2023-09-06 14:26:35,665 INFO Processor.MainProcessor __swing_trade -> : GALUSDT initialized.
+2023-09-06 14:26:35,665 INFO Processor.MainProcessor __swing_trade -> : STORJUSDT initialized.
+2023-09-06 14:26:35,666 INFO Processor.MainProcessor __swing_trade -> : IMXUSDT initialized.
+2023-09-06 14:26:35,666 INFO Processor.MainProcessor __swing_trade -> : DENTUSDT initialized.
+2023-09-06 14:26:35,667 INFO Processor.MainProcessor __swing_trade -> : 1INCHUSDT initialized.
+2023-09-06 14:26:35,668 INFO Processor.MainProcessor __swing_trade -> : KAVAUSDT initialized.
+2023-09-06 14:26:35,669 INFO Processor.MainProcessor __swing_trade -> : CHZUSDT initialized.
+2023-09-06 14:26:35,670 INFO Processor.MainProcessor __swing_trade -> : CVCUSDT initialized.
+2023-09-06 14:26:35,670 INFO Processor.MainProcessor __swing_trade -> : THETAUSDT initialized.
+2023-09-06 14:26:35,670 INFO Processor.MainProcessor __swing_trade -> : 1000SHIBUSDT initialized.
+2023-09-06 14:26:35,671 INFO Processor.MainProcessor __swing_trade -> : SPELLUSDT initialized.
+2023-09-06 14:26:35,671 INFO Processor.MainProcessor __swing_trade -> : STMXUSDT initialized.
+2023-09-06 14:26:35,671 INFO Processor.MainProcessor __swing_trade -> : GTCUSDT initialized.
+2023-09-06 14:26:35,672 INFO Processor.MainProcessor __swing_trade -> : XLMUSDT initialized.
+2023-09-06 14:26:35,672 INFO Processor.MainProcessor __swing_trade -> : XEMUSDT initialized.
+2023-09-06 14:26:35,678 INFO Processor.MainProcessor __swing_trade -> : BTSUSDT initialized.
+2023-09-06 14:26:35,678 INFO Processor.MainProcessor __swing_trade -> : GRTUSDT initialized.
+2023-09-06 14:26:35,678 INFO Processor.MainProcessor __swing_trade -> : WAVESUSDT initialized.
+2023-09-06 14:26:35,679 INFO Processor.MainProcessor __swing_trade -> : ETHUSDT initialized.
+2023-09-06 14:26:35,679 INFO Processor.MainProcessor __swing_trade -> : BTCSTUSDT initialized.
+2023-09-06 14:26:35,679 INFO Processor.MainProcessor __swing_trade -> : HNTUSDT initialized.
+2023-09-06 14:26:35,680 INFO Processor.MainProcessor __swing_trade -> : CYBERUSDT initialized.
+2023-09-06 14:26:35,680 INFO Processor.MainProcessor __swing_trade -> : ANTUSDT initialized.
+2023-09-06 14:26:35,680 INFO Processor.MainProcessor __swing_trade -> : LRCUSDT initialized.
+2023-09-06 14:26:35,681 INFO Processor.MainProcessor __swing_trade -> : NKNUSDT initialized.
+2023-09-06 14:26:35,681 INFO Processor.MainProcessor __swing_trade -> : TOMOUSDT initialized.
+2023-09-06 14:26:35,683 INFO Processor.MainProcessor __swing_trade -> : ICXUSDT initialized.
+2023-09-06 14:26:35,684 INFO Processor.MainProcessor __swing_trade -> : BATUSDT initialized.
+2023-09-06 14:26:35,685 INFO Processor.MainProcessor __swing_trade -> : FXSUSDT initialized.
+2023-09-06 14:26:35,685 INFO Processor.MainProcessor __swing_trade -> : HOTUSDT initialized.
+2023-09-06 14:26:35,685 INFO Processor.MainProcessor __swing_trade -> : ARKMUSDT initialized.
+2023-09-06 14:26:35,686 INFO Processor.MainProcessor __swing_trade -> : ONEUSDT initialized.
+2023-09-06 14:26:35,686 INFO Processor.MainProcessor __swing_trade -> : 1000PEPEUSDT initialized.
+2023-09-06 14:26:35,686 INFO Processor.MainProcessor __swing_trade -> : RAYUSDT initialized.
+2023-09-06 14:26:35,689 INFO Processor.MainProcessor __swing_trade -> : REEFUSDT initialized.
+2023-09-06 14:26:35,689 INFO Processor.MainProcessor __swing_trade -> : SXPUSDT initialized.
+2023-09-06 14:26:35,805 INFO Processor.MainProcessor __swing_trade -> : ENSUSDT initialized.
+2023-09-06 14:26:35,806 INFO Processor.MainProcessor __swing_trade -> : PERPUSDT initialized.
+2023-09-06 14:26:35,806 INFO Processor.MainProcessor __swing_trade -> : ZENUSDT initialized.
+2023-09-06 14:26:35,806 INFO Processor.MainProcessor __swing_trade -> : QTUMUSDT initialized.
+2023-09-06 14:26:35,808 INFO Processor.MainProcessor __swing_trade -> : NMRUSDT initialized.
+2023-09-06 14:26:35,808 INFO Processor.MainProcessor __swing_trade -> : ADAUSDT initialized.
+2023-09-06 14:26:35,809 INFO Processor.MainProcessor __swing_trade -> : IDEXUSDT initialized.
+2023-09-06 14:26:35,809 INFO Processor.MainProcessor __swing_trade -> : ENJUSDT initialized.
+2023-09-06 14:26:35,809 INFO Processor.MainProcessor __swing_trade -> : MATICUSDT initialized.
+2023-09-06 14:26:35,810 INFO Processor.MainProcessor __swing_trade -> : KNCUSDT initialized.
+2023-09-06 14:26:35,814 INFO Processor.MainProcessor __swing_trade -> : AXSUSDT initialized.
+2023-09-06 14:26:35,814 INFO Processor.MainProcessor __swing_trade -> : YGGUSDT initialized.
+2023-09-06 14:26:35,815 INFO Processor.MainProcessor __swing_trade -> : BNXUSDT initialized.
+2023-09-06 14:26:35,815 INFO Processor.MainProcessor __swing_trade -> : HBARUSDT initialized.
+2023-09-06 14:26:35,815 INFO Processor.MainProcessor __swing_trade -> : PEOPLEUSDT initialized.
+2023-09-06 14:26:35,816 INFO Processor.MainProcessor __swing_trade -> : CTKUSDT initialized.
+2023-09-06 14:26:35,816 INFO Processor.MainProcessor __swing_trade -> : SANDUSDT initialized.
+2023-09-06 14:26:35,816 INFO Processor.MainProcessor __swing_trade -> : LUNA2USDT initialized.
+2023-09-06 14:26:35,817 INFO Processor.MainProcessor __swing_trade -> : MTLUSDT initialized.
+2023-09-06 14:26:35,817 INFO Processor.MainProcessor __swing_trade -> : PENDLEUSDT initialized.
+2023-09-06 14:26:35,818 INFO Processor.MainProcessor __swing_trade -> : RNDRUSDT initialized.
+2023-09-06 14:26:35,818 INFO Processor.MainProcessor __swing_trade -> : RLCUSDT initialized.
+2023-09-06 14:26:35,818 INFO Processor.MainProcessor __swing_trade -> : BALUSDT initialized.
+2023-09-06 14:26:35,819 INFO Processor.MainProcessor __swing_trade -> : MAGICUSDT initialized.
+2023-09-06 14:26:35,819 INFO Processor.MainProcessor __swing_trade -> : ANKRUSDT initialized.
+2023-09-06 14:26:35,820 INFO Processor.MainProcessor __swing_trade -> : BTCDOMUSDT initialized.
+2023-09-06 14:26:35,820 INFO Processor.MainProcessor __swing_trade -> : 1000LUNCUSDT initialized.
+2023-09-06 14:26:35,821 INFO Processor.MainProcessor __swing_trade -> : DODOXUSDT initialized.
+2023-09-06 14:26:35,822 INFO Processor.MainProcessor __swing_trade -> : APTUSDT initialized.
+2023-09-06 14:26:35,823 INFO Processor.MainProcessor __swing_trade -> : MDTUSDT initialized.
+2023-09-06 14:26:35,824 INFO Processor.MainProcessor __swing_trade -> : ETHUSDT_230929 initialized.
+2023-09-06 14:26:35,824 INFO Processor.MainProcessor __swing_trade -> : ALPHAUSDT initialized.
+2023-09-06 14:26:35,825 INFO Processor.MainProcessor __swing_trade -> : BTCUSDT initialized.
+2023-09-06 14:26:35,825 INFO Processor.MainProcessor __swing_trade -> : BTCUSDT_230929 initialized.
+2023-09-06 14:26:35,826 INFO Processor.MainProcessor __swing_trade -> : OGNUSDT initialized.
+2023-09-06 14:26:35,826 INFO Processor.MainProcessor __swing_trade -> : VETUSDT initialized.
+2023-09-06 14:26:35,826 INFO Processor.MainProcessor __swing_trade -> : UMAUSDT initialized.
+2023-09-06 14:26:35,827 INFO Processor.MainProcessor __swing_trade -> : NEOUSDT initialized.
+2023-09-06 14:26:35,827 INFO Processor.MainProcessor __swing_trade -> : MASKUSDT initialized.
+2023-09-06 14:26:35,828 INFO Processor.MainProcessor __swing_trade -> : ETHUSDT_231229 initialized.
+2023-09-06 14:26:35,828 INFO Processor.MainProcessor __swing_trade -> : TUSDT initialized.
+2023-09-06 14:26:35,828 INFO Processor.MainProcessor __swing_trade -> : INJUSDT initialized.
+2023-09-06 14:26:35,838 INFO Processor.MainProcessor __swing_trade -> : ACHUSDT initialized.
+2023-09-06 14:26:35,882 INFO Processor.MainProcessor __swing_trade -> : BNTUSDT initialized.
+2023-09-06 14:26:35,891 INFO Processor.MainProcessor __swing_trade -> : LQTYUSDT initialized.
+2023-09-06 14:26:35,940 INFO Processor.MainProcessor __swing_trade -> : COMBOUSDT initialized.
+2023-09-06 14:26:36,113 INFO Processor.MainProcessor __swing_trade -> : IOTAUSDT initialized.
+2023-09-06 14:26:36,156 INFO Processor.MainProcessor __swing_trade -> : RADUSDT initialized.
+2023-09-06 14:26:36,159 INFO Processor.MainProcessor __swing_trade -> : DASHUSDT initialized.
+2023-09-06 14:26:36,165 INFO Processor.MainProcessor __swing_trade -> : SNXUSDT initialized.
+2023-09-06 14:26:36,183 INFO Processor.MainProcessor __swing_trade -> : API3USDT initialized.
+2023-09-06 14:26:36,190 INFO Processor.MainProcessor __swing_trade -> : TRXUSDT initialized.
+2023-09-06 14:26:36,230 INFO Processor.MainProcessor __swing_trade -> : UNIUSDT initialized.
+2023-09-06 14:26:36,230 INFO Processor.MainProcessor __swing_trade -> : FLOWUSDT initialized.
+2023-09-06 14:26:36,237 INFO Processor.MainProcessor __swing_trade -> : BELUSDT initialized.
+2023-09-06 14:26:36,316 INFO Processor.MainProcessor __swing_trade -> : RDNTUSDT initialized.
+2023-09-06 14:26:36,317 INFO Processor.MainProcessor __swing_trade -> : BLURUSDT initialized.
+2023-09-06 14:26:36,398 INFO Processor.MainProcessor __swing_trade -> : DUSKUSDT initialized.
+2023-09-06 14:26:36,450 INFO Processor.MainProcessor __swing_trade -> : FTMUSDT initialized.
+2023-09-06 14:26:36,490 INFO Processor.MainProcessor __swing_trade -> : APEUSDT initialized.
+2023-09-06 14:26:36,491 INFO Processor.MainProcessor __swing_trade -> : STXUSDT initialized.
+2023-09-06 14:26:36,491 INFO Processor.MainProcessor __swing_trade -> : YFIUSDT initialized.
+2023-09-06 14:26:36,833 INFO Processor.MainProcessor __swing_trade -> : 1000FLOKIUSDT initialized.
+2023-09-06 14:32:00,622 INFO Processor.MainProcessor __swing_trade -> : 
+The pump at the symbol UNFIUSDT is found.
+Start pump price: 9.501
+Pump high: 9.66
+Start pump time: 1693999680000.0
+
+
+2023-09-06 14:32:00,623 INFO Analize_classes.Analyzer check_rollback -> : cur_price = 9.597, target_price = 9.6441
+2023-09-06 14:32:00,623 INFO Processor.MainProcessor __swing_trade -> : Open a deal UNFIUSDT. current_price = 9.597 stop_loss = 9.692969999999999 take_profit = 9.50103
+2023-09-06 14:32:00,623 INFO Trade_classes.TradeProcessor deal_by_market -> : Opening deal by UNFIUSDT........ 
+2023-09-06 14:32:00,623 INFO Trade_classes.TradeProcessor __check_trading_conditions -> : Check UNFIUSDT conditions........ 
+2023-09-06 14:32:00,912 INFO Trade_classes.TradeProcessor __check_trading_conditions -> : Trading conditions by UNFIUSDT are checked. OK.
+2023-09-06 14:32:00,912 INFO Trade_classes.TradeProcessor deal_by_market -> : Trading conditions are checked UNFIUSDT
+2023-09-06 14:32:00,912 INFO Trade_classes.TradeProcessor __calc_lot -> : Calculate lot for UNFIUSDT........ 
+2023-09-06 14:32:00,912 INFO Trade_classes.TradeProcessor __get_qty_params -> : Getting UNFIUSDT parameters........ 
+2023-09-06 14:32:01,496 INFO Trade_classes.TradeProcessor __get_qty_params -> : ['8000.0', '0.1', '0.1', '0.001']
+2023-09-06 14:32:01,496 INFO Trade_classes.TradeProcessor deal_by_market -> : Lot calculated UNFIUSDT
+2023-09-06 14:32:01,496 INFO Trade_classes.TradeProcessor deal_by_market -> : Opening deal at symbol UNFIUSDT. quantity:10.4
+2023-09-06 14:32:01,793 INFO Trade_classes.TradeProcessor deal_by_market -> : Position by UNFIUSDT is open. Info about the opened position:
+{'orderId': 4354839171, 'symbol': 'UNFIUSDT', 'status': 'NEW', 'clientOrderId': 'B6jUsHCwE9FCGjaMEvXmxK', 'price': '0.000', 'avgPrice': '0.00', 'origQty': '10.4', 'executedQty': '0.0', 'cumQty': '0.0', 'cumQuote': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1693999922862}]
+
+2023-09-06 14:32:01,793 INFO Trade_classes.TradeProcessor __check_open_position -> : Check open positions by UNFIUSDT parameters........ 
+2023-09-06 14:32:02,177 INFO Trade_classes.TradeProcessor deal_by_market -> : 
+The position list has position by UNFIUSDT
+Symbol: UNFIUSDT
+Price: 9.597
+SL: 9.692969999999999
+TP: 9.50103
+Quantity: 10.4
+Trade mode: 1
+Reason: deal open
+
+
+2023-09-06 14:32:02,178 INFO Processor.MainProcessor __swing_trade -> : Position UNFIUSDT is opened. 
+2023-09-06 14:32:04,807 ERROR Processor.MainProcessor __swing_trade -> : Error during reading agg trades WLDUSDT req = {'e': 'error', 'm': 'Queue overflow. Message not filled'}
